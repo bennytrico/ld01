@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\project\\unity\\jungle adventure\\jungle adventure\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\project\\unity\\jungle adventure\\jungle adventure\\Temp\\gradleOut\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\project\\unity\\jungle adventure\\jungle adventure\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\project\\unity\\jungle adventure\\jungle adventure\\Temp\\gradleOut\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "32,34,37",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2211,2311,2449",
+                        "endLines": "33,36,40",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "2306,2444,2671"
+                    }
+                },
+                {
+                    "source": "E:\\project\\unity\\jungle adventure\\jungle adventure\\Temp\\gradleOut\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\BN000216304\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\bb453d8721b438b5b25c131940f1bf02\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "113,165,218,260,312,360,443,525,601,676,751,823,891,966,1038,1107,1171,1236,1332,1398,1534,1646,1780,1870,1939,1973,2043,2116,2164",
+                        "endColumns": "51,52,41,51,47,82,81,75,74,74,71,67,74,71,68,63,64,95,65,135,111,133,89,68,33,69,72,47,45",
+                        "endOffsets": "160,213,255,307,355,438,520,596,671,746,818,886,961,1033,1102,1166,1231,1327,1393,1529,1641,1775,1865,1934,1968,2038,2111,2159,2205"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "114,166,219,261,313,361,444,526,602,677,752,824,892,967,1039,1108,1172,1237,1333,1399,1535,1647,1781,1871,1940,1974,2044,2117,2165",
+                        "endColumns": "51,52,41,51,47,82,81,75,74,74,71,67,74,71,68,63,64,95,65,135,111,133,89,68,33,69,72,47,45",
+                        "endOffsets": "161,214,256,308,356,439,521,597,672,747,819,887,962,1034,1103,1167,1232,1328,1394,1530,1642,1776,1866,1935,1969,2039,2112,2160,2206"
+                    }
+                }
+            ]
+        }
+    ]
+}
